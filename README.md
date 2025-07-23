@@ -20,6 +20,7 @@ Trol Mouse is a Python-based virtual mouse project that allows users to control 
 - **NumPy** – Numerical calculations and optimizations
 
 ![bUDlqllF5m](https://github.com/user-attachments/assets/a5bbe979-9235-4746-9603-6d9f2214904e)
+![FkeopjOf77](https://github.com/user-attachments/assets/8602657c-0d80-4e2b-8e43-1269ce77d564)
 
 ## How It Works
 
