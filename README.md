@@ -28,6 +28,12 @@ Eye Mode: Uses face mesh detection to identify eye landmarks, detect blinks, and
 
 I've always been fascinated by computer vision and the idea of touchless interaction. This project was my way of experimenting with intuitive, accessible technology. Watching the mouse respond to my gestures and blinks was an incredibly exciting and rewarding experience!
 
-Future Improvements
+## Future Improvements
+Add GUI to toggle between modes
 
+Support for drag and scroll
+
+Adaptive sensitivity calibration
+
+Add voice command integration
     
