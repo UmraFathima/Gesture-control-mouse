@@ -16,16 +16,18 @@ Trol Mouse is a Python-based virtual mouse project that allows users to control 
 - **OpenCV** – Image processing and webcam integration
 - **MediaPipe** – Hand and face mesh landmark detection
 - **PyAutoGUI** – Controlling mouse movements and clicks
-- **Pynput** – Keyboard/mouse event handling
+- **Pynput** – mouse event handling
 - **NumPy** – Numerical calculations and optimizations
 
 ## How It Works
 
-    Hand Mode: Tracks index and thumb finger using MediaPipe, and simulates mouse movement and clicks via PyAutoGUI.
-
-    Eye Mode: Uses face mesh detection to identify eye landmarks, detect blinks, and control cursor based on gaze direction or facial position.
+Hand Mode: Tracks index and thumb finger using MediaPipe, and simulates mouse movement and clicks via PyAutoGUI.
+Eye Mode: Uses face mesh detection to identify eye landmarks, detect blinks, and control cursor based on gaze direction.
 
 ## Why I Built This
 
 I've always been fascinated by computer vision and the idea of touchless interaction. This project was my way of experimenting with intuitive, accessible technology. Watching the mouse respond to my gestures and blinks was an incredibly exciting and rewarding experience!
 
+Future Improvements
+
+    
