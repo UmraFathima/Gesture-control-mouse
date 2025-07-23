@@ -1,6 +1,10 @@
 # 🖱️ Trol Mouse: Hand & Eye Controlled Virtual Mouse
 
 Trol Mouse is a Python-based virtual mouse project that allows users to control their computer cursor using either **hand gestures** or **eye movements**. Built using cutting-edge computer vision and automation libraries, this project reflects my excitement for exploring natural and touchless ways of interacting with technology.
+#### Demo link
+https://www.linkedin.com/posts/umra-fathima-329ba4266_opencv-pythonprojects-computervision-activity-7353789958379229185-s-42?utm_source=share&utm_medium=member_android&rcm=ACoAAEFQ6tEBO6AVotXOVKjdvWgfDD-d_Qjeu6g
+
+https://www.linkedin.com/posts/umra-fathima-329ba4266_computervision-gesturerecognition-eyetracking-activity-7353791552667705346-PhrD?utm_source=share&utm_medium=member_android&rcm=ACoAAEFQ6tEBO6AVotXOVKjdvWgfDD-d_Qjeu6g
 
 ## 🚀 Features
 
